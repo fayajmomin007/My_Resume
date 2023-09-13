@@ -1,9 +1,5 @@
 import { Alert, Image, Linking, StyleSheet, Text, TouchableOpacity, View } from 'react-native';
-import React, { useRef } from 'react';
-import { LinearGradient } from 'expo-linear-gradient';
-import { Entypo } from '@expo/vector-icons';
-import { Feather } from '@expo/vector-icons';
-import { AntDesign } from '@expo/vector-icons';
+import React from 'react';
 import MyButtons from './MyButtons';
 
 
